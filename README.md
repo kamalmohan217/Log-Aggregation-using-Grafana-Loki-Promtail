@@ -1,5 +1,5 @@
 # Log-Aggregation-using-Grafana-Loki-Promtail
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e2534b97-ef3e-4d28-9d65-2e2e5462d0ec)
 <br></br>
 ![image](https://github.com/user-attachments/assets/dd957309-be94-4bf4-a693-bcac37766bf7)
 <br></br>
